@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.session-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative; /* Ensure the container is relative for absolute positioning */
+}
+
+.speech {
+    margin-bottom: 20px;
+    position: relative; /* Make the speech relative */
+}
+
+.speaker {
+    font-weight: bold;
+}
+
+.translated-text {
+    color: #666;
+    position: relative; /* Make translated sentences relative */
+}
+
+.german-sentence {
+    display: none; /* Initially hide the German sentence */
+    position: absolute;
+    top: -30px; /* Adjust as needed */
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Show the German sentence when hovering over the translated sentence */
+.translated-text:hover + .german-sentence {
+    display: block;
+}
+

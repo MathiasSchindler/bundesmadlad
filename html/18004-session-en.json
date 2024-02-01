@@ -1,0 +1,3193 @@
+{
+    "meta": {
+        "session": "18004",
+        "processing": {
+            "parse_proceedings": "2023-03-23T18:52:23",
+            "parse_media": "2023-02-26T14:21:09",
+            "merge": "2023-03-23T19:03:35",
+            "nel": "2023-03-23T19:23:26",
+            "align": "2023-03-23T19:45:58",
+            "ner": "2023-03-23T20:15:46"
+        },
+        "dateStart": "2013-12-17T09:00:00+01:00",
+        "dateEnd": "2013-12-17T13:45:00+01:00"
+    },
+    "data": [
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "Sitzungser\u00f6ffnung",
+                "officialTitle": "TOP "
+            },
+            "dateStart": "2013-12-17T09:00:20+01:00",
+            "dateEnd": "2013-12-17T09:04:12+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 09:00 Uhr (4. Sitzung, TOP )",
+                "proceedingIndex": 1001,
+                "proceedingIndexes": [
+                    1001
+                ],
+                "mediaIndex": 1,
+                "confidence": 1,
+                "linkedMediaIndexes": [
+                    1
+                ],
+                "align-duration": 4.266980886459351,
+                "ner-duration": 1.6184253692626953
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2957564/2957564_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2957564",
+                "duration": 232.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2957564",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2957564/2957564_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 1,
+            "originTextID": "begin-intro",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "begin-intro",
+                    "textBody": [
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Die Sitzung ist er\u00f6ffnet. Nehmen Sie bitte Platz. ",
+                            "sentences": [
+                                {
+                                    "text": "I declare the session open.",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "21.440",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Please take your seat.",
+                                    "timeStart": "21.440",
+                                    "timeEnd": "44.840",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Guten Morgen, liebe Kolleginnen und Kollegen! Ich begr\u00fc\u00dfe Sie herzlich zu unserer 4. Sitzung. ",
+                            "sentences": [
+                                {
+                                    "text": "Good morning, dear colleagues!",
+                                    "timeStart": "52.560",
+                                    "timeEnd": "55.340",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I warmly welcome you to our 4th meeting.",
+                                    "timeStart": "55.340",
+                                    "timeEnd": "59.760",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Vor Eintritt in die Tagesordnung m\u00f6chte ich Sie mit Blick auf die weiteren Plenarsitzungen dieser Woche dar\u00fcber informieren, dass wir morgen um 9 Uhr mit einer Regierungserkl\u00e4rung der Bundeskanzlerin zum Europ\u00e4ischen Rat am 19. und 20. Dezember 2013, also noch in dieser Woche, beginnen. Am Donnerstag beginnt das Plenum um 10 Uhr. An diesem Tag werden wir neben der Wahl der oder des Beauftragten f\u00fcr Datenschutz verschiedene Vorlagen aus dem Hause, darunter auch Gesetzesinitiativen, behandeln. ",
+                            "sentences": [
+                                {
+                                    "text": "Before we move on to the agenda, I would like to inform you, with a view to the other plenary sittings this week, that we will begin tomorrow at 9 a.m. with a government statement by the Chancellor on the European Council on 19 and 20 December 2013, i.e. this week.",
+                                    "timeStart": "59.760",
+                                    "timeEnd": "76.980",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "On Thursday, the plenary session will begin at 10 a.m.",
+                                    "timeStart": "76.980",
+                                    "timeEnd": "80.160",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "On this day, in addition to the election of the Data Protection Officer, we will deal with various proposals from the House, including legislative initiatives.",
+                                    "timeStart": "80.160",
+                                    "timeEnd": "92.020",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, vor wenigen Tagen hat die ganze Welt Abschied genommen von Nelson Mandela. Wir verdanken ihm viel. Sein Vorbild im Kampf gegen Rassismus und Unterdr\u00fcckung, aber auch sein bewundernswerter Beitrag zur friedlichen Entwicklung seines Landes waren eine historische Demonstration daf\u00fcr, welche Entwicklung Befreiungs- und Demokratisierungsprozesse nehmen k\u00f6nnen, wenn sie von Pers\u00f6nlichkeiten von seiner Kraft, seiner Ausstrahlung, aber auch seiner Vers\u00f6hnungsbereitschaft gepr\u00e4gt werden. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, a few days ago the whole world said goodbye to Nelson Mandela.",
+                                    "timeStart": "92.020",
+                                    "timeEnd": "100.100",
+                                    "entities": [
+                                        {
+                                            "label": "Nelson Mandela",
+                                            "wid": "Q8023",
+                                            "wtype": "PER",
+                                            "score": 0.9934
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "We owe him a lot.",
+                                    "timeStart": "100.100",
+                                    "timeEnd": "102.500",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "His role model in the fight against racism and oppression, but also his admirable contribution to the peaceful development of his country, were a historic demonstration of the development that processes of liberation and democratisation can take when they are shaped by personalities with his strength, his charisma, but also his willingness to reconcile.",
+                                    "timeStart": "102.500",
+                                    "timeEnd": "136.380",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Nelson Mandela geh\u00f6rte zu den wenigen ausl\u00e4ndischen Staatsg\u00e4sten, die vor dem Deutschen Bundestag gesprochen haben. Seine Rede und seine pers\u00f6nliche Ausstrahlung haben alle, die im Mai 1996 dabei waren, tief beeindruckt. Das universelle menschliche Ideal, hat Nelson Mandela damals in Bonn im Plenarsaal des Bundestages gesagt, sei ",
+                            "sentences": [
+                                {
+                                    "text": "Nelson Mandela was one of the few foreign state guests to speak before the German Bundestag.",
+                                    "timeStart": "136.380",
+                                    "timeEnd": "143.860",
+                                    "entities": [
+                                        {
+                                            "label": "Nelson Mandela",
+                                            "wid": "Q8023",
+                                            "wtype": "PER",
+                                            "score": 0.9934
+                                        },
+                                        {
+                                            "label": "Deutschen Bundestag",
+                                            "wid": "Q154797",
+                                            "wtype": "ORG",
+                                            "score": 0.9381
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "His speech and his personal charisma deeply impressed all those present in May 1996.",
+                                    "timeStart": "143.860",
+                                    "timeEnd": "168.120",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "The universal human ideal, Nelson Mandela said in the plenary hall of the Bundestag in Bonn, is to be free.",
+                                    "timeStart": "168.120",
+                                    "timeEnd": "185.880",
+                                    "entities": [
+                                        {
+                                            "label": "Nelson Mandela",
+                                            "wid": "Q8023",
+                                            "wtype": "PER",
+                                            "score": 0.9934
+                                        },
+                                        {
+                                            "label": "Bonn",
+                                            "wid": "Q586",
+                                            "wtype": "LOC",
+                                            "score": 0.5818
+                                        },
+                                        {
+                                            "label": "Bundestages",
+                                            "wid": "Q154797",
+                                            "wtype": "ORG",
+                                            "score": 0.0937
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Nelson Mandela hat daf\u00fcr gesorgt, dass das Ideal und seine Universalit\u00e4t n\u00e4herger\u00fcckt sind. Daf\u00fcr sind wir ihm dankbar. Wir werden ihn nicht vergessen. Bitte erheben Sie sich zum Zeichen des Respekts f\u00fcr einen Augenblick von Ihren Pl\u00e4tzen. ",
+                            "sentences": [
+                                {
+                                    "text": "Nelson Mandela has brought the ideal and its universality closer.",
+                                    "timeStart": "188.880",
+                                    "timeEnd": "195.220",
+                                    "entities": [
+                                        {
+                                            "label": "Nelson Mandela",
+                                            "wid": "Q8023",
+                                            "wtype": "PER",
+                                            "score": 0.9934
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "We are grateful to him for that.",
+                                    "timeStart": "195.220",
+                                    "timeEnd": "197.940",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "We will not forget him.",
+                                    "timeStart": "197.940",
+                                    "timeEnd": "200.100",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Please rise from your seats for a moment as a sign of respect.",
+                                    "timeStart": "200.100",
+                                    "timeEnd": "204.480",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herzlichen Dank. ",
+                            "sentences": [
+                                {
+                                    "text": "Thank you so much.",
+                                    "timeStart": "218.160",
+                                    "timeEnd": "218.760",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "begin-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Wir kommen nun zu unserem Tagesordnungspunkt 1: ",
+                            "sentences": [
+                                {
+                                    "text": "We now come to our agenda item 1:",
+                                    "timeStart": "228.960",
+                                    "timeEnd": "232.000",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        },
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "Wahl der Bundeskanzlerin",
+                "officialTitle": "Tagesordnungspunkt 1"
+            },
+            "dateStart": "2013-12-17T09:04:12+01:00",
+            "dateEnd": "2013-12-17T10:17:32+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 09:04 Uhr (4. Sitzung, TOP 1)",
+                "proceedingIndex": 1002,
+                "proceedingIndexes": [
+                    1002
+                ],
+                "mediaIndex": 2,
+                "confidence": 1,
+                "linkedMediaIndexes": [
+                    2
+                ],
+                "align-duration": 57.41875505447388,
+                "ner-duration": 2.5957565307617188
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2957685/2957685_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2957685",
+                "duration": 4400.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2957685",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2957685/2957685_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 2,
+            "originTextID": "ID1800400100-intro",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400100-intro",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Wahl der Bundeskanzlerin ",
+                            "sentences": [
+                                {
+                                    "text": "Election of the Federal Chancellor",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "1.940",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Der Herr Bundespr\u00e4sident hat mir hierzu mitgeteilt: ",
+                            "sentences": [
+                                {
+                                    "text": "The President of the Federal Republic of Germany has informed me:",
+                                    "timeStart": "1.940",
+                                    "timeEnd": "5.320",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "\u2013 Der demonstrative Beifall ersetzt die Wahl nicht. ",
+                            "sentences": [
+                                {
+                                    "text": "\u2013 The demonstrative applause does not replace the election.",
+                                    "timeStart": "5.320",
+                                    "timeEnd": "7.080",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Deswegen darf ich Ihnen f\u00fcr den anschlie\u00dfenden Wahlgang noch einige Hinweise geben. Zur Wahl sind die Stimmen der Mehrheit der Mitglieder des Bundestages, das hei\u00dft mindestens 316 Stimmen, erforderlich. Nach unserer Gesch\u00e4ftsordnung wird die Bundeskanzlerin mit verdeckten Stimmkarten, also geheim, gew\u00e4hlt. Sie ben\u00f6tigen f\u00fcr diese Wahl Ihren Wahlausweis aus Ihrem Stimmkartenfach in der Lobby. Bitte kontrollieren Sie, ob der Wahlausweis Ihren Namen tr\u00e4gt. Die Stimmkarte und den amtlichen Wahlumschlag erhalten Sie nach Aufruf Ihres Namens von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern an den Ausgabetischen hier oben links und rechts neben den Wahlkabinen. Ich bitte Sie, von Ihren Pl\u00e4tzen aus \u00fcber die seitlichen Zug\u00e4nge und nicht durch den Mittelgang zu den Ausgabetischen zu gehen. Wir haben das alles mehrfach durchgeprobt; es geht so am z\u00fcgigsten. ",
+                            "sentences": [
+                                {
+                                    "text": "I would therefore like to give you a few hints for the subsequent vote.",
+                                    "timeStart": "7.080",
+                                    "timeEnd": "12.280",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "The election requires the votes of a majority of the members of the Bundestag, i.e. at least 316 votes.",
+                                    "timeStart": "12.280",
+                                    "timeEnd": "45.220",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "According to our Rules of Procedure, the Federal Chancellor is elected by secret ballot.",
+                                    "timeStart": "45.220",
+                                    "timeEnd": "78.080",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "You will need your voter ID from your voter card compartment in the lobby for this election.",
+                                    "timeStart": "78.080",
+                                    "timeEnd": "101.620",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Please check that the voter ID bears your name.",
+                                    "timeStart": "101.620",
+                                    "timeEnd": "125.500",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "The voting card and the official ballot envelope can be obtained after calling your name from the clerks at the desks to the left and right of the polling booths.",
+                                    "timeStart": "125.500",
+                                    "timeEnd": "221.800",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I would ask you to proceed from your seats through the side entrances and not through the aisle to the distribution tables.",
+                                    "timeStart": "221.800",
+                                    "timeEnd": "834.660",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "We have rehearsed all this several times; it is the fastest way.",
+                                    "timeStart": "834.660",
+                                    "timeEnd": "890.240",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen und m\u00fcssen die Stimmkarte ebenfalls noch in der Wahlkabine in den Umschlag legen. Danach gehen Sie bitte zu den Wahlurnen hier vor dem Rednerpult. Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden zur\u00fcckzuweisen, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt. Gegebenenfalls kann die Stimmabgabe vorschriftsm\u00e4\u00dfig wiederholt werden. ",
+                            "sentences": [
+                                {
+                                    "text": "You may only mark your voting card in the polling booth and must also put the voting card in the envelope in the polling booth.",
+                                    "timeStart": "890.240",
+                                    "timeEnd": "971.060",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "After that, please go to the ballot boxes here in front of the podium.",
+                                    "timeStart": "971.060",
+                                    "timeEnd": "1048.280",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "The clerks are obliged to reject anyone who marks their voting card outside the polling booth or puts it in the envelope.",
+                                    "timeStart": "1048.280",
+                                    "timeEnd": "1193.840",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "If necessary, the vote may be repeated in accordance with the regulations.",
+                                    "timeStart": "1193.840",
+                                    "timeEnd": "1208.180",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "G\u00fcltig sind nur Stimmkarten mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. ",
+                            "sentences": [
+                                {
+                                    "text": "Only ballot papers with a cross at \u201cyes\u201d, \u201cno\u201d or \u201cabstain\u201d are valid.",
+                                    "timeStart": "1208.180",
+                                    "timeEnd": "1253.960",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Bevor Sie die Stimmkarte in eine der Wahlurnen werfen, \u00fcbergeben Sie bitte Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne. Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe eines Wahlausweises erbracht werden. ",
+                            "sentences": [
+                                {
+                                    "text": "Before throwing the ballot into one of the ballot boxes, please hand over your voter ID to one of the clerks at the ballot box.",
+                                    "timeStart": "1253.960",
+                                    "timeEnd": "1276.820",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Proof of participation in the election can only be provided by submitting a voter ID card.",
+                                    "timeStart": "1276.820",
+                                    "timeEnd": "1320.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen. Die beiden Schriftf\u00fchrer neben mir werden nun Ihre Namen in alphabetischer Reihenfolge aufrufen. Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach dem Aufruf Ihres Namens zur Entgegennahme der Stimmkarte zu den Ausgabetischen vor den Wahlkabinen zu begeben. ",
+                            "sentences": [
+                                {
+                                    "text": "I would now like to ask the assigned clerks to take their seats.",
+                                    "timeStart": "1320.400",
+                                    "timeEnd": "1342.140",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "The two clerks next to me will now call your names in alphabetical order.",
+                                    "timeStart": "1342.140",
+                                    "timeEnd": "1354.360",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I would ask you to follow the call of names and, after your name has been called, to go to the desks in front of the polling booths to collect your voting card.",
+                                    "timeStart": "1354.360",
+                                    "timeEnd": "1424.840",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich habe den Eindruck, dass die Pl\u00e4tze mit den Schriftf\u00fchrerinnen und Schriftf\u00fchrern besetzt sind. \u2013 Es fehlt hier vorne noch eine Schriftf\u00fchrerin von den Gr\u00fcnen. \u2013 Jetzt sind sie komplett. ",
+                            "sentences": [
+                                {
+                                    "text": "I have the impression that the seats are occupied by the secretaries.",
+                                    "timeStart": "1424.840",
+                                    "timeEnd": "1440.740",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "There is still a secretary from the Greens missing in the front.",
+                                    "timeStart": "1440.740",
+                                    "timeEnd": "1463.340",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Now they are complete.",
+                                    "timeStart": "1463.340",
+                                    "timeEnd": "1506.040",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Der Wahlgang ist er\u00f6ffnet. Ich bitte, mit dem Namensaufruf zu beginnen. ",
+                            "sentences": [
+                                {
+                                    "text": "The ballot is open.",
+                                    "timeStart": "1506.040",
+                                    "timeEnd": "1521.920",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I would ask you to begin with the roll call.",
+                                    "timeStart": "1521.920",
+                                    "timeEnd": "1529.920",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, der Namensaufruf ist beendet. Ich w\u00fcrde mich gerne vergewissern, ob alle Kolleginnen und Kollegen ihre Stimme abgegeben haben. \u2013 Ich frage noch einmal, ob jemand seine Stimme noch nicht abgegeben hat. \u2013 Ich schlie\u00dfe hiermit den Wahlgang. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, that concludes the roll-call.",
+                                    "timeStart": "1529.920",
+                                    "timeEnd": "1585.160",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I would like to make sure that all Members have voted. \u2013",
+                                    "timeStart": "1585.160",
+                                    "timeEnd": "1798.080",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I ask again if anyone has not cast their vote yet. \u2013",
+                                    "timeStart": "1798.080",
+                                    "timeEnd": "1937.060",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I hereby declare the ballot closed.",
+                                    "timeStart": "1937.060",
+                                    "timeEnd": "1939.700",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "F\u00fcr die Ausz\u00e4hlung der Stimmen unterbreche ich die Sitzung f\u00fcr etwa 20 Minuten. Den Wiederbeginn der Sitzung machen wir dann auf \u00fcblichem Wege durch Klingelsignale bekannt. ",
+                            "sentences": [
+                                {
+                                    "text": "I will suspend the sitting for about 20 minutes for the counting of the votes.",
+                                    "timeStart": "1939.700",
+                                    "timeEnd": "2032.600",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "We will then announce the resumption of the sitting in the usual way by ringing the bell.",
+                                    "timeStart": "4029.560",
+                                    "timeEnd": "4106.640",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Die Sitzung ist unterbrochen. ",
+                            "sentences": [
+                                {
+                                    "text": "The session is suspended.",
+                                    "timeStart": "4106.640",
+                                    "timeEnd": "4110.920",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder er\u00f6ffnet. Ich m\u00f6chte Sie bitten, Platz zu nehmen. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, I declare the sitting resumed.",
+                                    "timeStart": "4110.920",
+                                    "timeEnd": "4192.360",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I would ask you to take your seats.",
+                                    "timeStart": "4192.360",
+                                    "timeEnd": "4194.560",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Meine Damen und Herren, ich gebe Ihnen das Ergebnis der Wahl bekannt: abgegebene Stimmen 621, ung\u00fcltige Stimmen keine. Von den abgegebenen 621 Stimmen haben mit Ja gestimmt 462. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, I announce the result of the vote: 621 votes cast, none invalid.",
+                                    "timeStart": "4194.560",
+                                    "timeEnd": "4205.040",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Of the 621 votes cast, 462 voted in favour.",
+                                    "timeStart": "4205.040",
+                                    "timeEnd": "4216.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Mit Nein gestimmt haben 150 Mitglieder des Hauses. ",
+                            "sentences": [
+                                {
+                                    "text": "150 members of the House voted against.",
+                                    "timeStart": "4216.400",
+                                    "timeEnd": "4222.280",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "9 Kolleginnen und Kollegen haben sich der Stimme enthalten. ",
+                            "sentences": [
+                                {
+                                    "text": "9 colleagues abstained.",
+                                    "timeStart": "4222.280",
+                                    "timeEnd": "4231.080",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Gem\u00e4\u00df Art. 63 Abs. 2 des Grundgesetzes ist zur Bundeskanzlerin gew\u00e4hlt, wer die Stimmen der Mehrheit der Mitglieder des Bundestages auf sich vereinigt. Ich stelle fest, dass Frau Dr. Angela Merkel mit der erforderlichen Mehrheit der Stimmen der Mitglieder des Bundestages zur Bundeskanzlerin der Bundesrepublik Deutschland gew\u00e4hlt ist. Auch wenn ich aus der Entgegennahme des Blumengebindes den begr\u00fcndeten Eindruck gewonnen habe, dass Sie sich ernsthaft mit dem Gedanken tragen, die Wahl anzunehmen, ",
+                            "sentences": [
+                                {
+                                    "text": "Pursuant to Art.",
+                                    "timeStart": "4231.080",
+                                    "timeEnd": "4232.720",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "63, para. 2 of the Basic Law, the person who obtains the votes of the majority of the members of the Bundestag shall be elected Federal Chancellor.",
+                                    "timeStart": "4232.720",
+                                    "timeEnd": "4369.280",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I declare that Dr. Angela Merkel has been elected Chancellor of the Federal Republic of Germany by the required majority of the votes of the members of the Bundestag.",
+                                    "timeStart": "4369.280",
+                                    "timeEnd": "4378.860",
+                                    "entities": [
+                                        {
+                                            "label": "Angela Merkel",
+                                            "wid": "Q567",
+                                            "wtype": "PER",
+                                            "score": 0.9919
+                                        },
+                                        {
+                                            "label": "Bundestages",
+                                            "wid": "Q154797",
+                                            "wtype": "ORG",
+                                            "score": 0.0937
+                                        },
+                                        {
+                                            "label": "Bundesrepublik Deutschland",
+                                            "wid": "Q183",
+                                            "wtype": "LOC",
+                                            "score": 0.8507
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Even though I have gained the reasoned impression from the receipt of the flower arrangement that you are seriously thinking of accepting the election,",
+                                    "timeStart": "4378.860",
+                                    "timeEnd": "4389.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "frage ich Sie der guten Ordnung halber: Nehmen Sie die Wahl an? ",
+                            "sentences": [
+                                {
+                                    "text": "I ask you for the record: do you accept the election?",
+                                    "timeStart": "4389.400",
+                                    "timeEnd": "4396.200",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        },
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "erste Sitzungsunterbrechung",
+                "officialTitle": "TOP "
+            },
+            "dateStart": "2013-12-17T10:17:32+01:00",
+            "dateEnd": "2013-12-17T12:03:55+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 10:17 Uhr (4. Sitzung, TOP )",
+                "proceedingIndex": 1003,
+                "proceedingIndexes": [
+                    1003,
+                    1004
+                ],
+                "mediaIndex": 3,
+                "confidence": 0.5,
+                "linkedMediaIndexes": [
+                    3,
+                    4
+                ],
+                "align-duration": 60.906384229660034,
+                "ner-duration": 0.7538630962371826
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2959319/2959319_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2959319",
+                "duration": 6383.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2959319",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2959319/2959319_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Angela Merkel",
+                    "firstname": "Angela",
+                    "lastname": "Merkel",
+                    "context": "main-proceeding-speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q567",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 3,
+            "originTextID": "ID1800400100",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400100",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400100",
+                            "type": "speech",
+                            "speaker": "Angela Merkel",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich nehme die Wahl an und bedanke mich f\u00fcr das Vertrauen. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I accept the election and thank you for your confidence.",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "492.640",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Langanhaltender Beifall bei der CDU/CSU und der SPD \u2013 Beifall beim B\u00dcNDNIS 90/ DIE GR\u00dcNEN \u2013 Die Abgeordneten der CDU/ CSU und der SPD erheben sich \u2013 Abgeordnete aller Fraktionen begl\u00fcckw\u00fcnschen Bundeskanzlerein Dr. Angela Merkel \u2013 Abg. Thomas Oppermann [SPD] \u00fcberreicht ihr einen Blumenstrau\u00df) ",
+                            "sentences": [
+                                {
+                                    "text": "(Long applause from the CDU/CSU and the SPD \u2013 Applause from B\u00dcNDNIS 90/DIE GR\u00dcNEN \u2013 Members of the CDU/CSU and the SPD rise \u2013 Members of all groups congratulate Chancellor Dr. Angela Merkel \u2013 Members of the B\u00dcNDNIS 90/DIE GR\u00dcNEN congratulate Chancellor Dr. Angela Merkel) Thomas Oppermann [SPD] gives her a bouquet of flowers)",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "826.020",
+                                    "entities": [
+                                        {
+                                            "label": "CDU/CSU",
+                                            "wid": "Q708725",
+                                            "wtype": "ORG",
+                                            "score": 0.5754
+                                        },
+                                        {
+                                            "label": "SPD",
+                                            "wid": "Q49768",
+                                            "wtype": "ORG",
+                                            "score": 0.6736
+                                        },
+                                        {
+                                            "label": "B\u00dcNDNIS 90/ DIE GR\u00dcNEN",
+                                            "wid": "Q49766",
+                                            "wtype": "ORG",
+                                            "score": 0.8829
+                                        },
+                                        {
+                                            "label": "Abgeordneten",
+                                            "wid": "Q486839",
+                                            "wtype": "ORG",
+                                            "score": 0.0915
+                                        },
+                                        {
+                                            "label": "CDU",
+                                            "wid": "Q49762",
+                                            "wtype": "ORG",
+                                            "score": 0.6619
+                                        },
+                                        {
+                                            "label": "CSU",
+                                            "wid": "Q49763",
+                                            "wtype": "ORG",
+                                            "score": 0.7909
+                                        },
+                                        {
+                                            "label": "SPD",
+                                            "wid": "Q49768",
+                                            "wtype": "ORG",
+                                            "score": 0.6736
+                                        },
+                                        {
+                                            "label": "Thomas Oppermann",
+                                            "wid": "Q108250",
+                                            "wtype": "PER",
+                                            "score": 0.4268
+                                        },
+                                        {
+                                            "label": "SPD",
+                                            "wid": "Q49768",
+                                            "wtype": "ORG",
+                                            "score": 0.6736
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400100-closing",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundeskanzlerin, ich darf Ihnen im Namen des ganzen Hauses herzlich zu Ihrer Wahl gratulieren. Auch pers\u00f6nlich w\u00fcnsche ich Ihnen Kraft, Erfolg und Gottes Segen f\u00fcr diese gro\u00dfe Aufgabe. ",
+                            "sentences": [
+                                {
+                                    "text": "Madam Chancellor, on behalf of the whole House, I would like to congratulate you warmly on your election.",
+                                    "timeStart": "492.640",
+                                    "timeEnd": "826.020",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Personally, I also wish you strength, success and God's blessing for this great task.",
+                                    "timeStart": "826.020",
+                                    "timeEnd": "897.280",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, die Eidesleistung der Bundeskanzlerin findet um 12 Uhr statt. Bis dahin unterbreche ich die Sitzung. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, the Chancellor will be sworn in at 12 noon.",
+                                    "timeStart": "897.280",
+                                    "timeEnd": "1070.040",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Until then, I shall suspend the sitting.",
+                                    "timeStart": "1070.040",
+                                    "timeEnd": "1222.440",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Den Bundespr\u00e4sidenten habe ich selbstverst\u00e4ndlich vom Ergebnis des Wahlganges unterrichtet. ",
+                            "sentences": [
+                                {
+                                    "text": "Of course, I informed the Federal President of the result of the ballot.",
+                                    "timeStart": "1222.440",
+                                    "timeEnd": "5233.000",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Die Sitzung ist unterbrochen. ",
+                            "sentences": [
+                                {
+                                    "text": "The session is suspended.",
+                                    "timeStart": "5233.000",
+                                    "timeEnd": "5380.240",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder er\u00f6ffnet. Nehmen Sie bitte Platz. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, I declare the sitting resumed.",
+                                    "timeStart": "5380.240",
+                                    "timeEnd": "5739.080",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Please take your seat.",
+                                    "timeStart": "5739.080",
+                                    "timeEnd": "6290.000",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich rufe den Tagesordnungspunkt 2 auf: ",
+                            "sentences": [
+                                {
+                                    "text": "I call item 2:",
+                                    "timeStart": "6290.000",
+                                    "timeEnd": "6382.960",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        },
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "Eidesleistung der Bundeskanzlerin",
+                "officialTitle": "Tagesordnungspunkt 2"
+            },
+            "dateStart": "2013-12-17T12:03:55+01:00",
+            "dateEnd": "2013-12-17T12:06:38+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 12:03 Uhr (4. Sitzung, TOP 2)",
+                "proceedingIndex": 1004,
+                "proceedingIndexes": [
+                    1004,
+                    1005
+                ],
+                "mediaIndex": 4,
+                "confidence": 1,
+                "linkedMediaIndexes": [
+                    3,
+                    4
+                ],
+                "align-duration": 2.973966598510742,
+                "ner-duration": 0.6880195140838623
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2959320/2959320_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2959320",
+                "duration": 163.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2959320",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2959320/2959320_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 4,
+            "originTextID": "ID1800400100-closing",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400100-closing",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundeskanzlerin, ich darf Ihnen im Namen des ganzen Hauses herzlich zu Ihrer Wahl gratulieren. Auch pers\u00f6nlich w\u00fcnsche ich Ihnen Kraft, Erfolg und Gottes Segen f\u00fcr diese gro\u00dfe Aufgabe. ",
+                            "sentences": [
+                                {
+                                    "text": "Madam Chancellor, on behalf of the whole House, I would like to congratulate you warmly on your election.",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "9.320",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Personally, I also wish you strength, success and God's blessing for this great task.",
+                                    "timeStart": "9.320",
+                                    "timeEnd": "17.340",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, die Eidesleistung der Bundeskanzlerin findet um 12 Uhr statt. Bis dahin unterbreche ich die Sitzung. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, the Chancellor will be sworn in at 12 noon.",
+                                    "timeStart": "17.340",
+                                    "timeEnd": "26.820",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Until then, I shall suspend the sitting.",
+                                    "timeStart": "26.820",
+                                    "timeEnd": "29.160",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Den Bundespr\u00e4sidenten habe ich selbstverst\u00e4ndlich vom Ergebnis des Wahlganges unterrichtet. ",
+                            "sentences": [
+                                {
+                                    "text": "Of course, I informed the Federal President of the result of the ballot.",
+                                    "timeStart": "29.160",
+                                    "timeEnd": "52.440",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Die Sitzung ist unterbrochen. ",
+                            "sentences": [
+                                {
+                                    "text": "The session is suspended.",
+                                    "timeStart": "52.440",
+                                    "timeEnd": "54.460",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder er\u00f6ffnet. Nehmen Sie bitte Platz. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, I declare the sitting resumed.",
+                                    "timeStart": "54.460",
+                                    "timeEnd": "58.620",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Please take your seat.",
+                                    "timeStart": "58.620",
+                                    "timeEnd": "64.620",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400100-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich rufe den Tagesordnungspunkt 2 auf: ",
+                            "sentences": [
+                                {
+                                    "text": "I call item 2:",
+                                    "timeStart": "64.620",
+                                    "timeEnd": "73.540",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400200-intro",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400200-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt: ",
+                            "sentences": [
+                                {
+                                    "text": "The President of the Federal Republic of Germany has informed me in a letter dated today:",
+                                    "timeStart": "73.540",
+                                    "timeEnd": "82.580",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Nach Art. 64 Abs. 2 des Grundgesetzes leistet die Bundeskanzlerin bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid. ",
+                            "sentences": [
+                                {
+                                    "text": "According to Art.",
+                                    "timeStart": "82.580",
+                                    "timeEnd": "84.120",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "64, para. 2 of the Basic Law, the Federal Chancellor shall, upon taking office, make before the German Bundestag the oath provided for in Art.",
+                                    "timeStart": "84.120",
+                                    "timeEnd": "147.600",
+                                    "entities": [
+                                        {
+                                            "label": "Deutschen Bundestag",
+                                            "wid": "Q154797",
+                                            "wtype": "ORG",
+                                            "score": 0.625
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "56 of the Basic Law.",
+                                    "timeStart": "147.600",
+                                    "timeEnd": "150.800",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundeskanzlerin, ich bitte Sie, zur Eidesleistung zu mir zu kommen. ",
+                            "sentences": [
+                                {
+                                    "text": "Madam Chancellor, I ask you to come to me to take the oath.",
+                                    "timeStart": "150.800",
+                                    "timeEnd": "153.560",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundeskanzlerin, ich halte hier die Urschrift des Grundgesetzes in der Hand und bitte Sie, den in Art. 56 vorgesehenen Eid zu leisten. ",
+                            "sentences": [
+                                {
+                                    "text": "Madam Chancellor, I hold the original copy of the Basic Law in my hand here and ask you to read the text of Art.",
+                                    "timeStart": "153.560",
+                                    "timeEnd": "159.760",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "56 to take the oath required.",
+                                    "timeStart": "159.760",
+                                    "timeEnd": "163.000",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        },
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "zweite Sitzungsunterbrechung",
+                "officialTitle": "TOP "
+            },
+            "dateStart": "2013-12-17T12:06:38+01:00",
+            "dateEnd": "2013-12-17T13:35:25+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 12:06 Uhr (4. Sitzung, TOP )",
+                "proceedingIndex": 1006,
+                "proceedingIndexes": [
+                    1006,
+                    1007
+                ],
+                "mediaIndex": 5,
+                "confidence": 0.5,
+                "linkedMediaIndexes": [
+                    5,
+                    6
+                ],
+                "align-duration": 57.05102467536926,
+                "ner-duration": 0.5908641815185547
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2959431/2959431_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2959431",
+                "duration": 5327.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2959431",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2959431/2959431_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Angela Merkel",
+                    "firstname": "Angela",
+                    "lastname": "Merkel",
+                    "context": "main-proceeding-speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q567",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 5,
+            "originTextID": "ID1800400200",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400200",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400200",
+                            "type": "speech",
+                            "speaker": "Angela Merkel",
+                            "speakerstatus": "main-speaker",
+                            "text": "Ich schw\u00f6re, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erf\u00fcllen und Gerechtigkeit gegen jedermann \u00fcben werde. So wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "I swear that I will devote my strength to the welfare of the German people, increase its benefit, avert harm from it, preserve and defend the Basic Law and the laws of the Federation, conscientiously fulfill my duties and exercise justice against everyone.",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "1156.960",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "So God help me.",
+                                    "timeStart": "1156.960",
+                                    "timeEnd": "1171.640",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundeskanzlerin, Sie haben den im Grundgesetz vorgesehenen Eid geleistet. Ich bekr\u00e4ftige noch einmal die guten W\u00fcnsche f\u00fcr das heute erneut \u00fcbernommene Amt und w\u00fcnsche Ihnen in Ihrem Amt Erfolg und Gottes Segen. ",
+                            "sentences": [
+                                {
+                                    "text": "Madam Chancellor, you have taken the oath provided for in the Basic Law.",
+                                    "timeStart": "1171.640",
+                                    "timeEnd": "1280.380",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I once again reiterate my best wishes for the office you have taken up again today, and I wish you success and God's blessing in your ministry.",
+                                    "timeStart": "1280.380",
+                                    "timeEnd": "2924.680",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200",
+                            "type": "speech",
+                            "speaker": "Angela Merkel",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herzlichen Dank. ",
+                            "sentences": [
+                                {
+                                    "text": "Thank you so much.",
+                                    "timeStart": "2924.680",
+                                    "timeEnd": "3231.240",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400200-closing",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundeskanzlerin, Sie haben den im Grundgesetz vorgesehenen Eid geleistet. Ich bekr\u00e4ftige noch einmal die guten W\u00fcnsche f\u00fcr das heute erneut \u00fcbernommene Amt und w\u00fcnsche Ihnen in Ihrem Amt Erfolg und Gottes Segen. ",
+                            "sentences": [
+                                {
+                                    "text": "Madam Chancellor, you have taken the oath provided for in the Basic Law.",
+                                    "timeStart": "3231.240",
+                                    "timeEnd": "3380.000",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I once again reiterate my best wishes for the office you have taken up again today, and I wish you success and God's blessing in your ministry.",
+                                    "timeStart": "3380.000",
+                                    "timeEnd": "3494.840",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Die Sitzung wird um 13.30 Uhr mit der Bekanntgabe der vom Bundespr\u00e4sidenten ernannten Mitglieder der neuen Bundesregierung und ihrer Vereidigung fortgesetzt; f\u00fcr Spekulationen besteht eigentlich nicht mehr viel Raum. Bis dahin unterbreche ich die Sitzung. Wir sehen uns um 13.30 Uhr wieder. ",
+                            "sentences": [
+                                {
+                                    "text": "The session will continue at 1.30 p.m. with the announcement of the members of the new Federal Government appointed by the Federal President and their swearing-in; there is not much room for speculation.",
+                                    "timeStart": "3494.840",
+                                    "timeEnd": "4262.120",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Until then, I shall suspend the sitting.",
+                                    "timeStart": "4262.120",
+                                    "timeEnd": "4440.320",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "We will see you again at 1.30 pm.",
+                                    "timeStart": "4440.320",
+                                    "timeEnd": "4582.760",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder er\u00f6ffnet. Nehmen Sie bitte Platz. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, I declare the sitting resumed.",
+                                    "timeStart": "4582.760",
+                                    "timeEnd": "4699.400",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Please take your seat.",
+                                    "timeStart": "4699.400",
+                                    "timeEnd": "4784.300",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich rufe den Tagesordnungspunkt 3 auf: ",
+                            "sentences": [
+                                {
+                                    "text": "I call item 3:",
+                                    "timeStart": "4788.480",
+                                    "timeEnd": "5326.960",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        },
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "Bildung der Bundesregierung",
+                "officialTitle": "Tagesordnungspunkt 3"
+            },
+            "dateStart": "2013-12-17T13:35:25+01:00",
+            "dateEnd": "2013-12-17T13:37:31+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 13:35 Uhr (4. Sitzung, TOP 3)",
+                "proceedingIndex": 1007,
+                "proceedingIndexes": [
+                    1007,
+                    1008
+                ],
+                "mediaIndex": 6,
+                "confidence": 1,
+                "linkedMediaIndexes": [
+                    5,
+                    6
+                ],
+                "align-duration": 2.4988291263580322,
+                "ner-duration": 0.5938048362731934
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2959432/2959432_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2959432",
+                "duration": 126.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2959432",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2959432/2959432_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 6,
+            "originTextID": "ID1800400200-closing",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400200-closing",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundeskanzlerin, Sie haben den im Grundgesetz vorgesehenen Eid geleistet. Ich bekr\u00e4ftige noch einmal die guten W\u00fcnsche f\u00fcr das heute erneut \u00fcbernommene Amt und w\u00fcnsche Ihnen in Ihrem Amt Erfolg und Gottes Segen. ",
+                            "sentences": [
+                                {
+                                    "text": "Madam Chancellor, you have taken the oath provided for in the Basic Law.",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "9.000",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "I once again reiterate my best wishes for the office you have taken up again today, and I wish you success and God's blessing in your ministry.",
+                                    "timeStart": "9.000",
+                                    "timeEnd": "25.600",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Die Sitzung wird um 13.30 Uhr mit der Bekanntgabe der vom Bundespr\u00e4sidenten ernannten Mitglieder der neuen Bundesregierung und ihrer Vereidigung fortgesetzt; f\u00fcr Spekulationen besteht eigentlich nicht mehr viel Raum. Bis dahin unterbreche ich die Sitzung. Wir sehen uns um 13.30 Uhr wieder. ",
+                            "sentences": [
+                                {
+                                    "text": "The session will continue at 1.30 p.m. with the announcement of the members of the new Federal Government appointed by the Federal President and their swearing-in; there is not much room for speculation.",
+                                    "timeStart": "25.600",
+                                    "timeEnd": "48.040",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Until then, I shall suspend the sitting.",
+                                    "timeStart": "48.040",
+                                    "timeEnd": "50.800",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "We will see you again at 1.30 pm.",
+                                    "timeStart": "50.800",
+                                    "timeEnd": "57.040",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder er\u00f6ffnet. Nehmen Sie bitte Platz. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, I declare the sitting resumed.",
+                                    "timeStart": "57.040",
+                                    "timeEnd": "68.960",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "Please take your seat.",
+                                    "timeStart": "68.960",
+                                    "timeEnd": "73.080",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich rufe den Tagesordnungspunkt 3 auf: ",
+                            "sentences": [
+                                {
+                                    "text": "I call item 3:",
+                                    "timeStart": "73.080",
+                                    "timeEnd": "77.120",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400200-closing-post-intro",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400200-closing-post-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Bekanntgabe der Bildung der Bundesregierung ",
+                            "sentences": [
+                                {
+                                    "text": "Announcement of the formation of the Federal Government",
+                                    "timeStart": "77.120",
+                                    "timeEnd": "84.840",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing-post-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Der Herr Bundespr\u00e4sident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt: ",
+                            "sentences": [
+                                {
+                                    "text": "In a letter dated today, the Federal President has informed me of the following:",
+                                    "timeStart": "84.840",
+                                    "timeEnd": "104.560",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing-post-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "\u2013 Nun entfaltet sich eben doch die Spekulation, was das im Einzelnen wohl alles bedeuten k\u00f6nnte. ",
+                            "sentences": [
+                                {
+                                    "text": "\u2013 Now the speculation is unfolding, what this could mean in detail.",
+                                    "timeStart": "110.440",
+                                    "timeEnd": "121.640",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400200-closing-post-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich rufe nun den Tagesordnungspunkt 4 auf: ",
+                            "sentences": [
+                                {
+                                    "text": "I now call item 4 on the agenda:",
+                                    "timeStart": "121.640",
+                                    "timeEnd": "126.000",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        },
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "Eidesleistungen",
+                "officialTitle": "Tagesordnungspunkt 4"
+            },
+            "dateStart": "2013-12-17T13:37:31+01:00",
+            "dateEnd": "2013-12-17T13:44:47+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 13:37 Uhr (4. Sitzung, TOP 4)",
+                "proceedingIndex": 1009,
+                "proceedingIndexes": [
+                    1009
+                ],
+                "mediaIndex": 7,
+                "confidence": 1,
+                "linkedMediaIndexes": [
+                    7
+                ],
+                "align-duration": 5.077092170715332,
+                "ner-duration": 0.720496654510498
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2959447/2959447_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2959447",
+                "duration": 436.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2959447",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2959447/2959447_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 7,
+            "originTextID": "ID1800400300-intro",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400300-intro",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400300-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Eidesleistung der Bundesminister ",
+                            "sentences": [
+                                {
+                                    "text": "Sworn oath of the Federal Ministers",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "35.280",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400300-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Meine Damen und Herren, nach Art. 64 Abs. 2 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, pursuant to Art.",
+                                    "timeStart": "35.280",
+                                    "timeEnd": "124.720",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "64, para. 2 of the Basic Law, the Federal Ministers take the oath set out in Art.",
+                                    "timeStart": "124.720",
+                                    "timeEnd": "221.880",
+                                    "entities": [
+                                        {
+                                            "label": "Deutschen Bundestag",
+                                            "wid": "Q154797",
+                                            "wtype": "ORG",
+                                            "score": 0.625
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "56 of the Basic Law.",
+                                    "timeStart": "226.680",
+                                    "timeEnd": "267.640",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400300-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich werde den Eid vorsprechen und bitte dann die Mitglieder der Bundesregierung, den Eid mit den Worten \u201eIch schw\u00f6re es, so wahr mir Gott helfe\u201c oder \u201eIch schw\u00f6re es\u201c zu bekr\u00e4ftigen: ",
+                            "sentences": [
+                                {
+                                    "text": "I will pronounce the oath and then ask the members of the Federal Government to confirm the oath with the words \u201cI swear it, so true as God helps me\u201d or \u201cI swear it\u201d:",
+                                    "timeStart": "267.640",
+                                    "timeEnd": "381.740",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400300-intro",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich darf zun\u00e4chst den Bundesminister Sigmar Gabriel zu mir bitten. ",
+                            "sentences": [
+                                {
+                                    "text": "First of all, I would like to invite Federal Minister Sigmar Gabriel.",
+                                    "timeStart": "381.740",
+                                    "timeEnd": "436.000",
+                                    "entities": [
+                                        {
+                                            "label": "Bundesminister",
+                                            "wid": "Q248352",
+                                            "wtype": "LOC",
+                                            "score": 0.0949
+                                        },
+                                        {
+                                            "label": "Sigmar Gabriel",
+                                            "wid": "Q160902",
+                                            "wtype": "PER",
+                                            "score": 0.9945
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        },
+        {
+            "parliament": "DE",
+            "electoralPeriod": {
+                "number": 18
+            },
+            "session": {
+                "number": 4,
+                "dateStart": "2013-12-17T09:00:00+01:00",
+                "dateEnd": "2013-12-17T13:45:00+01:00"
+            },
+            "agendaItem": {
+                "title": "Sitzungsende",
+                "officialTitle": "TOP "
+            },
+            "dateStart": "2013-12-17T13:44:47+01:00",
+            "dateEnd": "2013-12-17T13:45:03+01:00",
+            "debug": {
+                "originalTitle": "Redebeitrag von Prof. Dr. Norbert Lammert (Bundestagspr\u00e4sident/CDU/CSU) am 17.12.2013 um 13:44 Uhr (4. Sitzung, TOP )",
+                "proceedingIndex": 1010,
+                "proceedingIndexes": [
+                    1010,
+                    1011,
+                    1012,
+                    1013,
+                    1014,
+                    1015,
+                    1016,
+                    1017,
+                    1018,
+                    1019,
+                    1020,
+                    1021,
+                    1022
+                ],
+                "mediaIndex": 8,
+                "confidence": 0.5,
+                "linkedMediaIndexes": [
+                    8
+                ],
+                "align-duration": 1.7885425090789795,
+                "ner-duration": 3.2669804096221924
+            },
+            "media": {
+                "videoFileURI": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2959453/2959453_h264_720_400_2000kb_baseline_de_2192.mp4",
+                "sourcePage": "http://dbtg.tv/fvid/2959453",
+                "duration": 16.0,
+                "creator": "Deutscher Bundestag",
+                "license": "&lt;a href=&quot;https://www.bundestag.de/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;/a&gt;",
+                "originMediaID": "2959453",
+                "audioFileURI": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/2959453/2959453_mp3_128kb_stereo_de_128.mp3",
+                "aligned": true
+            },
+            "people": [
+                {
+                    "type": "memberOfParliament",
+                    "label": "Norbert Lammert",
+                    "context": "main-speaker",
+                    "role": "Bundestagspr\u00e4sident",
+                    "wid": "Q57474",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Sigmar Gabriel",
+                    "firstname": "Sigmar",
+                    "lastname": "Gabriel",
+                    "context": "main-proceeding-speaker",
+                    "faction": {
+                        "wid": "Q2207512",
+                        "label": "SPD",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q160902",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Frank-Walter Steinmeier",
+                    "firstname": "Frank-Walter",
+                    "lastname": "Steinmeier",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q2207512",
+                        "label": "SPD",
+                        "wtype": "ORG"
+                    }
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Thomas Maizi\u00e8re",
+                    "firstname": "Thomas",
+                    "lastname": "Maizi\u00e8re",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    }
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Heiko Maas",
+                    "context": "speaker",
+                    "wid": "Q108447",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Wolfgang Sch\u00e4uble",
+                    "firstname": "Wolfgang",
+                    "lastname": "Sch\u00e4uble",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q16019",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Andrea Nahles",
+                    "firstname": "Andrea",
+                    "lastname": "Nahles",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q2207512",
+                        "label": "SPD",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q62810",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Hans-Peter Friedrich",
+                    "firstname": "Hans-Peter",
+                    "lastname": "Friedrich",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q66144",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Ursula Leyen",
+                    "firstname": "Ursula",
+                    "lastname": "Leyen",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    }
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Manuela Schwesig",
+                    "context": "speaker",
+                    "wid": "Q72845",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Hermann Gr\u00f6he",
+                    "firstname": "Hermann",
+                    "lastname": "Gr\u00f6he",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q70429",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Alexander Dobrindt",
+                    "firstname": "Alexander",
+                    "lastname": "Dobrindt",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q85783",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Barbara Hendricks",
+                    "firstname": "Barbara",
+                    "lastname": "Hendricks",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q2207512",
+                        "label": "SPD",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q97332",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Johanna Wanka",
+                    "context": "speaker"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Gerd M\u00fcller",
+                    "firstname": "Gerd",
+                    "lastname": "M\u00fcller",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q85516",
+                    "wtype": "PERSON"
+                },
+                {
+                    "type": "memberOfParliament",
+                    "label": "Peter Altmaier",
+                    "firstname": "Peter",
+                    "lastname": "Altmaier",
+                    "context": "speaker",
+                    "faction": {
+                        "wid": "Q1023134",
+                        "label": "CDU/CSU",
+                        "wtype": "ORG"
+                    },
+                    "wid": "Q65539",
+                    "wtype": "PERSON"
+                }
+            ],
+            "speechIndex": 8,
+            "originTextID": "ID1800400300",
+            "textContents": [
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400300",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400300",
+                            "type": "speech",
+                            "speaker": "Sigmar Gabriel",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "2.240",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400300",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "1.000",
+                                    "timeEnd": "3.160",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400300",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Bundesminister Dr. Steinmeier. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister Steinmeier.",
+                                    "timeStart": "2.240",
+                                    "timeEnd": "3.160",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400400",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400400",
+                            "type": "speech",
+                            "speaker": "Frank-Walter Steinmeier",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Bundestagspr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President of the Bundestag, I swear it, so true as God helps me.",
+                                    "timeStart": "3.160",
+                                    "timeEnd": "4.120",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400400",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "3.160",
+                                    "timeEnd": "4.160",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400400",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Minister Dr. de Maizi\u00e8re. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr Minister Dr. de Maizi\u00e8re.",
+                                    "timeStart": "4.120",
+                                    "timeEnd": "4.160",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400500",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400500",
+                            "type": "speech",
+                            "speaker": "Thomas Maizi\u00e8re",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Bundestagspr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President of the Bundestag, I swear it, so true as God helps me.",
+                                    "timeStart": "4.160",
+                                    "timeEnd": "4.760",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400500",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "4.160",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400500",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Jetzt kommt der Bundesminister der Justiz und f\u00fcr Verbraucherschutz, Heiko Maas. ",
+                            "sentences": [
+                                {
+                                    "text": "Now comes the Federal Minister of Justice and Consumer Protection, Heiko Maas.",
+                                    "timeStart": "4.760",
+                                    "timeEnd": "5.400",
+                                    "entities": [
+                                        {
+                                            "label": "Bundesminister der Justiz",
+                                            "wid": "Q498251",
+                                            "wtype": "ORG",
+                                            "score": 0.966
+                                        },
+                                        {
+                                            "label": "Heiko Maas",
+                                            "wid": "Q108447",
+                                            "wtype": "PER",
+                                            "score": 0.9934
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400500",
+                            "type": "speech",
+                            "speaker": "Heiko Maas",
+                            "speakerstatus": "speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400500",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400500",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Minister Dr. Sch\u00e4uble. ",
+                            "sentences": [
+                                {
+                                    "text": "Minister Dr. Sch\u00e4uble.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400600",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400600",
+                            "type": "speech",
+                            "speaker": "Wolfgang Sch\u00e4uble",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400600",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400600",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundesministerin Nahles. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister Nahles.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400700",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400700",
+                            "type": "speech",
+                            "speaker": "Andrea Nahles",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400700",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400700",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Bundesminister Friedrich. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister Friedrich.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400800",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400800",
+                            "type": "speech",
+                            "speaker": "Hans-Peter Friedrich",
+                            "speakerstatus": "main-speaker",
+                            "text": "Ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400800",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400800",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundesministerin von der Leyen. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister von der Leyen.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800400900",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800400900",
+                            "type": "speech",
+                            "speaker": "Ursula Leyen",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400900",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400900",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundesministerin Schwesig. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister Schwesig.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400900",
+                            "type": "speech",
+                            "speaker": "Manuela Schwesig",
+                            "speakerstatus": "speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400900",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800400900",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Bundesminister Gr\u00f6he. ",
+                            "sentences": [
+                                {
+                                    "text": "Minister Gr\u00f6he.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800401000",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800401000",
+                            "type": "speech",
+                            "speaker": "Hermann Gr\u00f6he",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401000",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401000",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Bundesminister Dobrindt. ",
+                            "sentences": [
+                                {
+                                    "text": "Minister Dobrindt.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800401100",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800401100",
+                            "type": "speech",
+                            "speaker": "Alexander Dobrindt",
+                            "speakerstatus": "main-speaker",
+                            "text": "Ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401100",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401100",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundesministerin Dr. Hendricks. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister Dr Hendricks.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800401200",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800401200",
+                            "type": "speech",
+                            "speaker": "Barbara Hendricks",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401200",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401200",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Frau Bundesministerin Dr. Wanka. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister Dr. Wanka.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401200",
+                            "type": "speech",
+                            "speaker": "Johanna Wanka",
+                            "speakerstatus": "speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401200",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401200",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Bundesminister Dr. M\u00fcller. ",
+                            "sentences": [
+                                {
+                                    "text": "Federal Minister Dr. M\u00fcller.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800401300",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800401300",
+                            "type": "speech",
+                            "speaker": "Gerd M\u00fcller",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401300",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Beifall) ",
+                            "sentences": [
+                                {
+                                    "text": "(Applause)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401300",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Herr Bundesminister Altmaier. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr Altmaier.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800401400",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800401400",
+                            "type": "speech",
+                            "speaker": "Peter Altmaier",
+                            "speakerstatus": "main-speaker",
+                            "text": "Herr Pr\u00e4sident, ich schw\u00f6re es, so wahr mir Gott helfe. ",
+                            "sentences": [
+                                {
+                                    "text": "Mr President, I swear it, God help me.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401400-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Mit besonders guten W\u00fcnschen! ",
+                            "sentences": [
+                                {
+                                    "text": "With especially good wishes!",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401400",
+                            "type": "comment",
+                            "speaker": null,
+                            "speakerstatus": null,
+                            "text": "(Heiterkeit) ",
+                            "sentences": [
+                                {
+                                    "text": "(Laughter)",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401400",
+                            "type": "speech",
+                            "speaker": "Peter Altmaier",
+                            "speakerstatus": "main-speaker",
+                            "text": "Danke sch\u00f6n. ",
+                            "sentences": [
+                                {
+                                    "text": "Thank you so much.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "proceedings",
+                    "sourceURI": "/var/www/html/OpenParliamentTV-Conductor/OpenParliamentTV-Data-DE/original/proceedings/18004-proceedings.xml",
+                    "creator": "Deutscher Bundestag",
+                    "license": "Public Domain",
+                    "language": "DE-de",
+                    "originTextID": "ID1800401400-closing",
+                    "textBody": [
+                        {
+                            "speech_id": "ID1800401400-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Mit besonders guten W\u00fcnschen! ",
+                            "sentences": [
+                                {
+                                    "text": "With especially good wishes!",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401400-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Meine Damen und Herren, liebe Kolleginnen und Kollegen, die Mitglieder der Bundesregierung haben den nach Art. 64 Abs. 2 des Grundgesetzes vorgeschriebenen Eid vor dem Deutschen Bundestag geleistet. Ich spreche den Mitgliedern der Bundesregierung noch einmal pers\u00f6nlich, aber auch im Namen des Hauses die besten W\u00fcnsche f\u00fcr die \u00fcbernommenen Aufgaben aus. ",
+                            "sentences": [
+                                {
+                                    "text": "Ladies and gentlemen, dear colleagues, the members of the Federal Government have the mandate under Art.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                },
+                                {
+                                    "text": "64, para. 2 of the Basic Law before the German Bundestag.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": [
+                                        {
+                                            "label": "Deutschen Bundestag",
+                                            "wid": "Q154797",
+                                            "wtype": "ORG",
+                                            "score": 0.625
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Once again, both personally and on behalf of the House, I wish the members of the Federal Government every success in the tasks they have taken on.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401400-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Wir sind damit am Schluss unserer heutigen Tagesordnung. ",
+                            "sentences": [
+                                {
+                                    "text": "That brings us to the end of our agenda for today.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "5.400",
+                                    "entities": []
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401400-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Ich berufe die n\u00e4chste Sitzung des Deutschen Bundestages auf morgen, Mittwoch, den 18. Dezember 2013, 9 Uhr, ein. ",
+                            "sentences": [
+                                {
+                                    "text": "I call the next sitting of the German Bundestag for tomorrow, Wednesday, 18 December 2013, at 9 a.m.",
+                                    "timeStart": "5.400",
+                                    "timeEnd": "12.120",
+                                    "entities": [
+                                        {
+                                            "label": "Deutschen Bundestages",
+                                            "wid": "Q154797",
+                                            "wtype": "ORG",
+                                            "score": 0.5613
+                                        },
+                                        {
+                                            "label": "Mittwoch",
+                                            "wid": "Q128",
+                                            "wtype": "MISC",
+                                            "score": 0.1645
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "speech_id": "ID1800401400-closing",
+                            "type": "speech",
+                            "speaker": "Norbert Lammert",
+                            "speakerstatus": "president",
+                            "text": "Die Sitzung ist geschlossen. ",
+                            "sentences": [
+                                {
+                                    "text": "The meeting is closed.",
+                                    "timeStart": "12.120",
+                                    "timeEnd": "16.000",
+                                    "entities": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "documents": []
+        }
+    ]
+}
